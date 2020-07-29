@@ -1,0 +1,6 @@
+name: alphexd9
+recipe: pantheon
+config:
+  framework: drupal8
+  site: alphexd9
+  id: 8dfd72b2-c359-4908-abb0-108d69c859ff
